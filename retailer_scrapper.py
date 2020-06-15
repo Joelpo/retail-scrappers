@@ -1,5 +1,5 @@
 # Simple tool that allows to recover price on main retailers product website page.
-# @Joel
+# @Joelpo
 
 # coding: utf-8
 
